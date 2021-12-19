@@ -1,0 +1,7 @@
+export KUBECONFIG=
+export OCP_ADMIN=
+export OCP_ADMIN_PASS=
+export OCP_NAME=
+export LAB_DOMAIN=
+export OCP_URL=$OCP_NAME.$LAB_DOMAIN
+export SSH_PASS=
